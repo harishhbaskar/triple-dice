@@ -21,6 +21,7 @@ body{
 }
 #labels{
     font-size: 3em;
+    padding-top: 25px;
 }
 
 .label{
